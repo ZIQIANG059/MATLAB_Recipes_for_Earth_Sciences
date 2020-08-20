@@ -1,0 +1,48 @@
+% Petrophysical parameters of the Sherwood Sandstone, England
+% 
+% Reference:
+% Olorunfemi MO (1985) Statistical Relationships Among Some Formation
+% Parameters for Sherwood Sandstone, England. Mathematical Geology
+% 17:845–852
+%
+% Labels
+CH1  
+CH2  
+CH3  
+CH4  
+CH5  
+CH6  
+CH7  
+CH8  
+CH9  
+CH10 
+HF14 
+HF18 
+HF22 
+HF24 
+HF26 
+HF27 
+HF36 
+HF37 
+HF39 
+HF40A
+HF40B
+HF49 
+HF52 
+HF56 
+HF73 
+KJ1  
+KJ3  
+KJ6  
+KJ7  
+KJ8  
+KJ9  
+KJ10 
+KJ11 
+KJ12 
+KJ13 
+KJ14 
+KJ15 
+KJ16 
+KJ17 
+KJ18
